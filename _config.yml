@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Andrew Seohwan Yu
 description: 유서환
+
+layout: page
+title: "CV"
+permalink: /cv
