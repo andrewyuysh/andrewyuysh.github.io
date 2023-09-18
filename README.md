@@ -3,7 +3,7 @@ I am a PhD CS student at Case Western Reserve University and research assistant 
 
 andrewyuysh (at) gmail
 
-[CV](./cv.pdf)
+[CV](./cv_2023.pdf)
 
 # Research
 I am working with Dr. Xiaojuan Li to use advanced MR imaging to promote musculoskeletal health. We are using generative models to predict osteoarthritis progression.
