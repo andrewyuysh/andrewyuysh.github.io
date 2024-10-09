@@ -3,7 +3,7 @@ I am a Computer Science PhD candidate at Case Western Reserve University and res
 
 andrewyuysh (at) gmail
 
-[CV](./assets/cv_2024_06.pdf)
+[CV](./assets/cv_2024_10.pdf)
 
 # Research
 I am working with **Dr. Xiaojuan Li @ the Program of Advanced Musculoskeletal Imaging (Cleveland Clinic Lerner Research Institute)** to use advanced MR imaging to promote musculoskeletal health. We are using generative models to predict osteoarthritis progression.
